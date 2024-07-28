@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;  /*makes it easier to style diff HTML elements*/
+
+}
+body{
+  margin: 0;
+  background: url('https://media.istockphoto.com/id/1445522171/vector/blue-coral-defocused-abstract-background.jpg?s=612x612&w=0&k=20&c=E_lBRwaGOZ1NthbOXycNWFf0nvk0qgB1fZN_UYzpVHs=');
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family:"Fredoka", sans-serif;
+}
